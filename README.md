@@ -127,4 +127,4 @@ npm start
 
 ## Contact
 
-Vedant Mehta - mehtavedant8@gmail.comn
+Vedant Mehta - mehtavedant8@gmail.com
